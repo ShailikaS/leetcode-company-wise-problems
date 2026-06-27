@@ -40,7 +40,7 @@ Done,MEDIUM,Rotate Image,84.8,0.7790166005161556,https://leetcode.com/problems/r
 ,MEDIUM,3Sum,45.3,0.37070962750580283,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
 Done,EASY,Reverse Linked List,45.3,0.7920656598058967,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
 Done,MEDIUM,Number of Islands,45.3,0.6231996817686392,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-,MEDIUM,Search a 2D Matrix,45.3,0.5228958306958686,https://leetcode.com/problems/search-a-2d-matrix,"Array, Binary Search, Matrix"
+Done,MEDIUM,Search a 2D Matrix,45.3,0.5228958306958686,https://leetcode.com/problems/search-a-2d-matrix,"Array, Binary Search, Matrix"
 Done,MEDIUM,Word Search,39.8,0.45266963526412307,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
 ,MEDIUM,Gas Station,39.8,0.46383640179529256,https://leetcode.com/problems/gas-station,"Array, Greedy"
 ,EASY,Remove Duplicates from Sorted Array,39.8,0.6035554917476331,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
