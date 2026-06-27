@@ -38,7 +38,7 @@ Done,MEDIUM,Rotate Image,84.8,0.7790166005161556,https://leetcode.com/problems/r
 ,MEDIUM,Letter Combinations of a Phone Number,45.3,0.638575527047244,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
 ,EASY,Move Zeroes,45.3,0.628040301372497,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
 ,MEDIUM,3Sum,45.3,0.37070962750580283,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-,EASY,Reverse Linked List,45.3,0.7920656598058967,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+Done,EASY,Reverse Linked List,45.3,0.7920656598058967,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
 ,MEDIUM,Number of Islands,45.3,0.6231996817686392,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
 ,MEDIUM,Search a 2D Matrix,45.3,0.5228958306958686,https://leetcode.com/problems/search-a-2d-matrix,"Array, Binary Search, Matrix"
 ,MEDIUM,Word Search,39.8,0.45266963526412307,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
