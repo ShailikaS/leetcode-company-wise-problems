@@ -47,7 +47,7 @@ Status,Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
 ,MEDIUM,Meeting Rooms II,39.8,0.5214164447683243,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
 ,EASY,Valid Palindrome,39.8,0.5096353524593524,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
 ,MEDIUM,Permutation in String,39.8,0.4724785596261267,https://leetcode.com/problems/permutation-in-string,"Hash Table, Two Pointers, String, Sliding Window"
-,HARD,Merge k Sorted Lists,39.8,0.5677421026542292,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+Done,HARD,Merge k Sorted Lists,39.8,0.5677421026542292,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
 ,MEDIUM,Group Anagrams,39.8,0.7092883620495999,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
 ,EASY,Single Number,39.8,0.7596884851488054,https://leetcode.com/problems/single-number,"Array, Bit Manipulation"
 ,HARD,Find Servers That Handled Most Number of Requests,39.8,0.4407547923322684,https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests,"Array, Greedy, Heap (Priority Queue), Ordered Set"
