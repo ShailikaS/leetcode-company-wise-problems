@@ -51,7 +51,7 @@ Done,HARD,Merge k Sorted Lists,39.8,0.5677421026542292,https://leetcode.com/prob
 ,MEDIUM,Group Anagrams,39.8,0.7092883620495999,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
 ,EASY,Single Number,39.8,0.7596884851488054,https://leetcode.com/problems/single-number,"Array, Bit Manipulation"
 ,HARD,Find Servers That Handled Most Number of Requests,39.8,0.4407547923322684,https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests,"Array, Greedy, Heap (Priority Queue), Ordered Set"
-,MEDIUM,Insert Delete GetRandom O(1),39.8,0.5499185329837445,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+Done,MEDIUM,Insert Delete GetRandom O(1),39.8,0.5499185329837445,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
 ,MEDIUM,Validate IP Address,39.8,0.27817524620453365,https://leetcode.com/problems/validate-ip-address,String
 ,MEDIUM,Top K Frequent Elements,39.8,0.6456597904229384,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
 ,MEDIUM,Add Two Numbers,39.8,0.4622508629851303,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
