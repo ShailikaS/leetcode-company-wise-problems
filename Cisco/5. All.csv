@@ -4,9 +4,9 @@ Done,MEDIUM,Predict the Winner,98.1,0.5574273878146738,https://leetcode.com/prob
 Done,MEDIUM,House Robber,98.1,0.5230498170963667,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
 Done,EASY,Lucky Numbers in a Matrix,84.8,0.7990618901629731,https://leetcode.com/problems/lucky-numbers-in-a-matrix,"Array, Matrix"
 Done,MEDIUM,Rotate Image,84.8,0.7790166005161556,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
-,MEDIUM,Spiral Matrix,84.1,0.539397306376751,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-,EASY,Fizz Buzz,69.8,0.7437057263879774,https://leetcode.com/problems/fizz-buzz,"Math, String, Simulation"
-,MEDIUM,LRU Cache,66.8,0.45214622651505193,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+Done,MEDIUM,Spiral Matrix,84.1,0.539397306376751,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+Done,EASY,Fizz Buzz,69.8,0.7437057263879774,https://leetcode.com/problems/fizz-buzz,"Math, String, Simulation"
+Done,MEDIUM,LRU Cache,66.8,0.45214622651505193,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
 ,MEDIUM,Snakes and Ladders,66.8,0.47795347138329897,https://leetcode.com/problems/snakes-and-ladders,"Array, Breadth-First Search, Matrix"
 ,EASY,Number of Valid Words in a Sentence,66.8,0.29994825046773615,https://leetcode.com/problems/number-of-valid-words-in-a-sentence,String
 ,MEDIUM,Find Third Transaction,65.1,0.5385959339263025,https://leetcode.com/problems/find-third-transaction,Database
