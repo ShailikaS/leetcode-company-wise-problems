@@ -14,7 +14,7 @@ Done,EASY,Maximum Difference Between Increasing Elements,65.1,0.6610071637601134
 Done,MEDIUM,Merge Intervals,65.1,0.49395246037855745,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
 Done,MEDIUM,Maximum Subarray,63.2,0.5209980574746715,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
 ,MEDIUM,Implement Router,63.2,0.2178262846748522,https://leetcode.com/problems/implement-router,"Array, Hash Table, Binary Search, Design, Queue, Ordered Set"
-,MEDIUM,Find the Largest Area of Square Inside Two Rectangles,63.2,0.45060966682701353,https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles,"Array, Math, Geometry"
+Done,MEDIUM,Find the Largest Area of Square Inside Two Rectangles,63.2,0.45060966682701353,https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles,"Array, Math, Geometry"
 ,HARD,Minimum Cost to Make Array Equal,63.2,0.4632379781368273,https://leetcode.com/problems/minimum-cost-to-make-array-equal,"Array, Binary Search, Greedy, Sorting, Prefix Sum"
 ,HARD,Word Search II,63.2,0.3732633211647155,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"
 ,MEDIUM,Number of Equal Count Substrings,63.2,0.44663881503987846,https://leetcode.com/problems/number-of-equal-count-substrings,"Hash Table, String, Sliding Window, Counting"
